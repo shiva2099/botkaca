@@ -1,4 +1,12 @@
-https://github.com/prgofficial/pyrogram/archive/asyncio.zip
+aiohttp
+beautifulsoup4
+hachoir
+sqlalchemy
+psycopg2-binary
+numpy
+Pillow
+pyrogram==1.0.7
+requests
 tgcrypto
-aria2p
-appdirs
+#youtube-dl
+git+https://github.com/prgofficial/YouTubeDL
